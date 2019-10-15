@@ -12,4 +12,7 @@
   
 ## [faceband](https://devpost.com/software/faceband)
 
-  AR 을 이용한 리듬 액션 게임. [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
+  AR (Augmented Reality) 을 이용한 리듬 액션 게임 (Rhythm Action Game). [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
+  
+## [Memory of Past](https://github.com/daclouds/memory-of-past)
+  [Phaser 3](http://phaser.io/) 을 이용한 2d casual game. [Game Off 2018](https://daclouds.itch.io/memory-of-past) 제출용으로 만듬
