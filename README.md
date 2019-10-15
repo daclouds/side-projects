@@ -17,7 +17,7 @@
 
   - [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
   
-## [Memory of Past](https://github.com/daclouds/memory-of-past)
+## [Memory of Past](https://daclouds.itch.io/memory-of-past)
   [Phaser 3](http://phaser.io/) 을 이용한 2d casual game. 
 
   - [Game Off 2018](https://daclouds.itch.io/memory-of-past) 제출용으로 만듬
