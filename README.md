@@ -9,3 +9,7 @@
 ## [soda (Social Dining)](https://github.com/daclouds/soda)
 
   함께 밥 먹을 사람을 찾아주는 서비스
+  
+## [faceband](https://devpost.com/software/faceband)
+
+  AR 을 이용한 리듬 액션 게임. [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
