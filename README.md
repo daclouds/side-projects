@@ -25,6 +25,6 @@
 ## [nutshell](https://daclouds.github.io/nutshell-presentation/)
   A New Way of Classifying Voice Files.
   
-  - [Azure AI Hackathon](https://www.hackerearth.com/challenges/hackathon/microsoft-hackathon-korea/) 제출용으로 만듬
+  - [Azure AI Hackathon](https://www.hackerearth.com/challenges/hackathon/microsoft-hackathon-korea/) 제출용으로 만들었지만(행사는 끝났지만) 계속 만들어 보기로 결정
 
   `참여자 모집 중`
