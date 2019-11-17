@@ -12,6 +12,11 @@
 
   `참여자 모집 중`
   
+## [Perfect Pitch](https://www.youtube.com/watch?v=ohfD8-uqrbc)
+  [godot](https://godotengine.org/) 으로 만든 절대음감을 테스트 하는 게임(Testing Perfect Pitch Game). [[github]](https://github.com/mdechdee/JunctionGamejam)
+
+Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 게임 엔진이라 많이 헤맸지만 하루만에 만든 것 치곤 나름 괜찮은 것 같아 올려본다.
+
 ## [faceband](https://devpost.com/software/faceband)
   AR (Augmented Reality) 을 이용한 리듬 액션 게임 (Rhythm Action Game). 
 
