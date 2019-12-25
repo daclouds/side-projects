@@ -11,6 +11,9 @@
   사내에서 열린 Game Jam 2019 제출용으로 만들었다.
   
   `아직 비공개`
+  
+  `Unity`
+  
 ## [Ideal Squad]()
   fo4 analysis 에서 분석한 내용을 바탕으로 포지션별 선수를 추천해 준다. 
 
@@ -20,20 +23,28 @@
   
   `아직 비공개`
   
+  `flutter`
+  
 ## [fo4 analysis (FiFA Online 4 Analysis)](https://github.com/daclouds/fo4-analysis-introduction)
   Nexon 에서 제공하는 FIFA 온라인 4 Open API 를 이용해 매치 결과를 분석하는 서비스
 
   `참여자 모집 중`
+  
+  `Node.js`
 
 ## [soda (Social Dining)](https://daclouds.github.io/soda/)
   함께 밥 먹을 사람을 찾아주는 서비스
 
   `참여자 모집 중`
   
+  `Node.js`, `flutter`
+  
 ## [Perfect Pitch](https://www.youtube.com/watch?v=ohfD8-uqrbc)
   [godot](https://godotengine.org/) 으로 만든 절대음감을 테스트 하는 게임(Testing Perfect Pitch Game). [[github]](https://github.com/mdechdee/JunctionGamejam)
 
 Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 게임 엔진이라 많이 헤맸지만 하루만에 만든 것 치곤 나름 괜찮은 것 같아 올려본다.
+
+  [godot](https://godotengine.org/)
 
 ## [faceband](https://devpost.com/software/faceband)
   AR (Augmented Reality) 을 이용한 리듬 액션 게임 (Rhythm Action Game). 
@@ -41,9 +52,11 @@ Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 �
   - [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
   
 ## [Memory of Past](https://daclouds.itch.io/memory-of-past)
-  [Phaser 3](http://phaser.io/) 을 이용한 2d casual game. 
+  사진 프레임 안에 들어가서 카운트다운 될 때 까지 버티면 이기는 2d casual game. 
 
   - [Game Off 2018](https://daclouds.itch.io/memory-of-past) 제출용으로 만듬
+  
+  [Phaser 3](http://phaser.io/)
 
 ## [nutshell](https://daclouds.github.io/nutshell-presentation/)
   A New Way of Classifying Voice Files.
@@ -51,3 +64,5 @@ Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 �
   - [Azure AI Hackathon](https://www.hackerearth.com/challenges/hackathon/microsoft-hackathon-korea/) 제출용으로 만들었지만(행사는 끝났지만) 계속 만들어 보기로 결정
 
   `참여자 모집 중`
+  
+  `flutter`
