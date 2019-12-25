@@ -12,7 +12,9 @@
   
   `아직 비공개`
   
-  `Unity`
+  사용 기술: `Unity`
+  
+  팀원 구성: Artist 1, Game Designer 1, Programmer 1
   
 ## [Ideal Squad]()
   fo4 analysis 에서 분석한 내용을 바탕으로 포지션별 선수를 추천해 준다. 
@@ -23,21 +25,27 @@
   
   `아직 비공개`
   
-  `flutter`
+  사용 기술: `flutter`, `Node.js`
+
+  팀원 구성: Artist 1, Game Designer 1, Programmer 2
   
 ## [fo4 analysis (FiFA Online 4 Analysis)](https://github.com/daclouds/fo4-analysis-introduction)
   Nexon 에서 제공하는 FIFA 온라인 4 Open API 를 이용해 매치 결과를 분석하는 서비스
 
   `참여자 모집 중`
   
-  `Node.js`
+  사용 기술: `Node.js`
+
+  팀원 구성: Programmer 2
 
 ## [soda (Social Dining)](https://daclouds.github.io/soda/)
   함께 밥 먹을 사람을 찾아주는 서비스
 
   `참여자 모집 중`
   
-  `Node.js`, `flutter`
+  사용 기술: `Node.js`, `flutter`
+
+  팀원 구성: Artist 1, Programmer 5 (Mobile: 3, Server: 2)
   
 ## [Perfect Pitch](https://www.youtube.com/watch?v=ohfD8-uqrbc)
   절대음감을 테스트 하는 게임(Testing Perfect Pitch Game). [[github]](https://github.com/mdechdee/JunctionGamejam)
@@ -46,18 +54,26 @@ Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 �
 
   [godot](https://godotengine.org/)
 
+  팀원 구성: Programmer 3
+
 ## [faceband](https://devpost.com/software/faceband)
   AR (Augmented Reality) 을 이용한 리듬 액션 게임 (Rhythm Action Game). 
 
   - [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
+
+  사용 기술: [Spark AR Studio](https://sparkar.facebook.com/ar-studio/), [cinema4d](https://www.maxon.net/cinema-4d/), [sketch](https://www.sketch.com/)
+  
+  팀원 구성: Artist 3 (3D: 1, UI/UX: 2), AR Designer 1, Programmer 1 
   
 ## [Memory of Past](https://daclouds.itch.io/memory-of-past)
   사진 프레임 안에 들어가서 카운트다운 될 때 까지 버티면 이기는 2d casual game. 
 
   - [Game Off 2018](https://daclouds.itch.io/memory-of-past) 제출용으로 만듬
   
-  [Phaser 3](http://phaser.io/)
+  사용 기술: [Phaser 3](http://phaser.io/)
 
+  팀원 구성: Artist 1, Programmer 1
+  
 ## [nutshell](https://daclouds.github.io/nutshell-presentation/)
   A New Way of Classifying Voice Files.
   
@@ -65,4 +81,6 @@ Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 �
 
   `참여자 모집 중`
   
-  `flutter`
+  사용 기술: `flutter`
+  
+  팀원 구성: Artist 1, Programmer 2
