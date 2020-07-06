@@ -34,7 +34,7 @@
   
   사용 기술: `Node.js`
 
-  팀원 구성: `Programmer 2`
+  팀원 구성: `Programmer 1`
 
 ## [soda (Social Dining)](https://project-soda.github.io/soda/)
   함께 밥 먹을 사람을 찾아주는 서비스
@@ -43,7 +43,7 @@
   
   사용 기술: `Node.js`, `flutter`
 
-  팀원 구성: `UI Artist 1`, `Programmer 4 (Mobile: 2, Server: 2), Designer 2`
+  팀원 구성: `UI Artist 1`, `Programmer 3 (Mobile: 2, Server: 1)`
   
 ## [Perfect Pitch](https://www.youtube.com/watch?v=ohfD8-uqrbc)
   절대음감을 테스트 하는 게임(Testing Perfect Pitch Game). [[github]](https://github.com/mdechdee/JunctionGamejam)
