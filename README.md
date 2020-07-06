@@ -32,7 +32,7 @@
 
   `참여자 모집 중`
   
-  사용 기술: `Node.js`
+  사용 기술: `Node.js`, `React.js`
 
   팀원 구성: `Programmer 1`
 
