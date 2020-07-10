@@ -2,6 +2,15 @@
 
 사이드 프로젝트 소개
 
+## [soda (Social Dining)](https://project-soda.github.io/soda/)
+  함께 밥 먹을 사람을 찾아주는 서비스
+
+  `참여자 모집 중`
+  
+  사용 기술: `Node.js`, `flutter`
+
+  팀원 구성: `UI Artist 1`, `Programmer 3 (Mobile: 2, Server: 1)`
+  
 ## [Voltochess]()
   11명이 뛰는 축구 룰이 아닌 [Clash Royale](https://clashroyale.com/) 처럼 선수를 한 명씩 그라운드에 내려 놓으며 전략적으로 플레이 하는 Casual 축구 게임.
 
@@ -35,15 +44,6 @@
   사용 기술: `Node.js`, `React.js`
 
   팀원 구성: `Programmer 1`
-
-## [soda (Social Dining)](https://project-soda.github.io/soda/)
-  함께 밥 먹을 사람을 찾아주는 서비스
-
-  `참여자 모집 중`
-  
-  사용 기술: `Node.js`, `flutter`
-
-  팀원 구성: `UI Artist 1`, `Programmer 3 (Mobile: 2, Server: 1)`
   
 ## [Perfect Pitch](https://www.youtube.com/watch?v=ohfD8-uqrbc)
   절대음감을 테스트 하는 게임(Testing Perfect Pitch Game). [[github]](https://github.com/mdechdee/JunctionGamejam)
