@@ -55,27 +55,39 @@ Junction Community Challenge 2019 제출용으로 만듬. 처음 사용해 본 �
   팀원 구성: `Programmer 3`
 
 ## [faceband](https://devpost.com/software/faceband)
+
+![faceband](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/846/181/datas/gallery.jpg)
+
   AR (Augmented Reality) 을 이용한 리듬 액션 게임 (Rhythm Action Game). 
 
   - [facebook community challenge 2019](https://developercircles2019.devpost.com/) 제출용으로 만듬
+  - 관련 링크: [https://devpost.com/software/faceband](https://devpost.com/software/faceband)
 
   사용 기술: [Spark AR Studio](https://sparkar.facebook.com/ar-studio/), [cinema4d](https://www.maxon.net/cinema-4d/), [sketch](https://www.sketch.com/)
   
   팀원 구성: `Artist 3 (3D: 1, UI/UX: 2)`, `AR Designer 1`, `Programmer 1`
   
 ## [Memory of Past](https://daclouds.itch.io/memory-of-past)
+
+![Memory of Past](https://img.itch.zone/aW1nLzE2NzM0MDQucG5n/315x250%23c/TrTynu.png)
+
   사진 프레임 안에 들어가서 카운트다운 될 때 까지 버티면 이기는 2d casual game. 
 
   - [Game Off 2018](https://daclouds.itch.io/memory-of-past) 제출용으로 만듬
+  - 관련 링크: [https://daclouds.itch.io/memory-of-past](https://daclouds.itch.io/memory-of-past)
   
   사용 기술: [Phaser 3](http://phaser.io/)
 
   팀원 구성: `Artist 1`, `Programmer 1`
   
 ## [nutshell](https://daclouds.github.io/nutshell-presentation/)
+
+![nutshell](https://daclouds.github.io/nutshell-presentation/presentation/nutshell_PPT_01.png)
+
   A New Way of Classifying Voice Files.
   
   - [Azure AI Hackathon](https://www.hackerearth.com/challenges/hackathon/microsoft-hackathon-korea/) 제출용으로 만들었지만(행사는 끝났지만) 계속 만들어 보기로 결정
+  - 관련 링크: [https://daclouds.github.io/nutshell-presentation](https://daclouds.github.io/nutshell-presentation)
 
   `참여자 모집 중`
   
