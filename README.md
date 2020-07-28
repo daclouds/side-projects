@@ -2,6 +2,16 @@
 
 사이드 프로젝트 소개
 
+## [Study Buddies](https://www.youtube.com/watch?v=lFsPpYX0xhA)
+
+  - 연속 학습 일 수 기록
+  - 관심사에 따른 추천
+  - 학습 내용 모아보기 (교육 과정 만들기)
+  
+  사용 기술: `graphql`, `react.js`
+  
+  팀원 구성: `UI Artist 1`, `Programmer 3 (Backend 2, Frontend 1)`, `Designer(기획) 1`
+
 ## [soda (Social Dining)](https://project-soda.github.io/soda/)
   함께 밥 먹을 사람을 찾아주는 서비스
 
